@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning cybersecurity with Fullstack Academy
+- 🌱 I’m currently finishing my Bachelor's of Science in Computer Science
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love weightlifting
