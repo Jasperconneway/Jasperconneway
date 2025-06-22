@@ -15,5 +15,8 @@ I have three dogs: Luca, Benny, and Lilly.
 
 ## Projects
 -[Contact Service](https://github.com/Jasperconneway/Contact-Service)
+
 -[Course Information Tree](https://github.com/Jasperconneway/Course-Information-Tree)
+
 -[Weight Tracker App](https://github.com/Jasperconneway/Weight-Tracker-App)
+
