@@ -1,7 +1,7 @@
 # Hi, my name is Jasper Conneway
 Welcome to my ePortfolio! I am a 2025 undergraduate at SNHU for a B.S. in Computer Science.
 
-## Professional self-assessment
+### Professional self-assessment
 For every course in the Computer Science program, I have submitted the course project to my 
 portfolio. These projects ranged from code to papers that provided me with the opportunity to 
 learn different languages and data structures, and algorithms. The papers gave me insight into 
